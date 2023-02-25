@@ -12,3 +12,13 @@ To preview and run the project on your device:
 1. Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
 2. In the terminal, run `npm install`
 3. Run `npm start` to view project in browser
+
+# Usage
+Instructions on how to use the project:
+
+1. Open the browser and navigate to http://localhost:3000 to view the app.
+2. Use the app to perform the intended purpose of the project.
+
+# paragraph 
+
+
