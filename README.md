@@ -29,8 +29,6 @@ Converting Figma design to React: One of the biggest challenges was converting t
 
 Color, font, and icon consistency: Another challenge was ensuring that the colors, fonts, and icons used in the design were consistent throughout the project. There were many different colors, fonts, and icons used in the design, and it was important to ensure that they were all implemented correctly and consistently.
 
-Responsive design: Creating a responsive design that looked good on all devices was also a challenge. It required careful consideration of the layout and the use of CSS media queries to adjust the design for different screen sizes.
-
 # Solutions:
 The following solutions were implemented to overcome these challenges:
 
