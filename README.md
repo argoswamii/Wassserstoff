@@ -36,8 +36,6 @@ Breaking down the design: To make the process of converting the Figma design int
 
 Creating a style guide: To ensure that the colors, fonts, and icons were consistent throughout the project, a style guide was created. This provided a clear reference for all of the design elements and helped to maintain consistency across the project.
 
-Testing on different devices: To ensure that the design was responsive and looked good on all devices, it was tested on various different devices and screen sizes. Any issues that arose were addressed and adjusted accordingly.
-
 # Conclusion:
 In conclusion, the project presented a number of challenges, including converting a Figma design into React code, ensuring consistency in colors, fonts, and icons, and creating a responsive design. However, by breaking down the design, creating a style guide, and testing on different devices, these challenges were overcome. Overall, the project was a valuable learning experience and helped to develop new skills in web development.
 
